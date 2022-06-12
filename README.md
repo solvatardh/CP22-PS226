@@ -1,5 +1,5 @@
 # Autism Detection Backend Service
-![easeplantz logo](readme-img/autismdetection-logo.png)
+!(readme-img/autismdetection-logo.png)
 <!-- MarkdownTOC levels="1,2,3" autolink="true"  -->
 - [Introduction](#introduction)
 - [Overview of API Features](#overview)
